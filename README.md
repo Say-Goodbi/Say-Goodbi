@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Developer & 2nd Year Student at Epitech La Réunion**
+**Developer & 3rd Year Student at Epitech La Réunion**
 
 *Crafting elegant solutions to complex problems*
 
@@ -10,7 +10,7 @@
 
 ## 🎯 About Me
 
-I'm a 19-year-old developer passionate about building **problem-solving solutions** that adapt to real-world needs and constraints.
+I'm a 20-year-old developer passionate about building **problem-solving solutions** that adapt to real-world needs and constraints.
 
 > I believe in building **maintainable, efficient, and elegant** solutions. Every project is an opportunity to deepen my understanding and refine my craft.
 
