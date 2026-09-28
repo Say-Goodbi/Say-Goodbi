@@ -8,6 +8,12 @@
 
 </div>
 
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=Say-Goodbi&theme=tokyonight&hide_border=false" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Say-Goodbi&theme=tokyonight&hide_border=false&hide=makefile,cmake&layout=compact&langs_count=10" alt="Top languages" />
+</p>
+
+
 ## 🎯 About Me
 
 I'm a 20-year-old developer passionate about building **problem-solving solutions** that adapt to real-world needs and constraints.
