@@ -7,10 +7,10 @@
 *Crafting elegant solutions to complex problems*
 
 </div>
-
+<br>
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com/?user=Say-Goodbi&theme=tokyonight&hide_border=false" alt="GitHub streak" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Say-Goodbi&theme=tokyonight&hide_border=false&hide=makefile,cmake&layout=compact&langs_count=10" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Say-Goodbi&theme=tokyonight&hide_border=true&hide=makefile,cmake&layout=compact&langs_count=10" alt="Top languages" />
 </p>
 
 
@@ -98,13 +98,6 @@ I'm a 20-year-old developer passionate about building **problem-solving solution
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-### GitHub Language Statistics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Say-Goodbi&layout=compact&theme=dracula&hide_border=true)](https://github.com/Say-Goodbi)
-</div>
 
 
 ---
