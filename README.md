@@ -9,9 +9,10 @@
 </div>
 <br>
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=Say-Goodbi&theme=tokyonight&hide_border=false" alt="GitHub streak" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Say-Goodbi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Say-Goodbi&theme=tokyonight&hide_border=true&hide=makefile,cmake&layout=compact&langs_count=10" alt="Top languages" />
 </p>
+<br>
 
 
 ## 🎯 About Me
